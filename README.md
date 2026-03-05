@@ -3,7 +3,7 @@
 # Nayderson de Oliveira
 **Dev Brasileiro, diretamente de MG**
 
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={eunayderson}&theme={dracula})
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={eunayderson}&theme={theme_name})
 
 </div>
 
