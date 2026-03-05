@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**eunayderson/eunayderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nayderson de Oliveira
+**Dev Brasileiro, diretamente de MG**
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eunayderson&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+##  Stack
+- **Frontend**: React, Flutter
+- **Mobile**: Flutter, Java, Swift, KMP
+- **Backend**: Node.js, Python  
+- **Cloud**: Google Cloud Platform 
+- **Banco**: MySQL, MongoDB, Postgree, 
+- **Tools**: Git, Docker, Linux
+
+**@eunayderson** 
+
